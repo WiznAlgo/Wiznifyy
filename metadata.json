@@ -1,0 +1,5 @@
+{
+  "name": "Wiznify",
+  "description": "A music listening application with background playback support.",
+  "requestFramePermissions": []
+}
